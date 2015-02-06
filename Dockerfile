@@ -1,5 +1,5 @@
 FROM ubuntu:14.10
-MAINTAINER miiton <vo.gu.ba.miiton@gmail.com>
+MAINTAINER miiton
 
 ENV DEBIAN_FRONTEND noninteractive
 # Install packages
