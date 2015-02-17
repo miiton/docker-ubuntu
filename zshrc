@@ -1,5 +1,6 @@
 export LANG=ja_JP.UTF-8
 export LC_ALL=$LANG
+export TERM=xterm
 
 fpath=(/usr/local/share/zsh-completions $fpath)
 autoload -Uz colors
